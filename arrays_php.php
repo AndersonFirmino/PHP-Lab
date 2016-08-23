@@ -1,6 +1,6 @@
 <?php
 /*
-Relembrando com usar arrays em php
+Relembrando como usar arrays em php
 **/
 
 $a = array(1, 2, 3); // array indexado, como listas no python
